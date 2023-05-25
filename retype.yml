@@ -2,8 +2,8 @@ input: .
 output: .retype
 url: pages.tylxr.com # Add your website address here
 branding:
-  title: tylxr
-  label: Docs
+  title: tylxr.com
+  label: wiki
 links:
   - text: Getting Started
     link: https://retype.com/guides/getting-started/
