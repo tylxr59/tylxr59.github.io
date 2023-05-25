@@ -1,8 +1,3 @@
----
-label: Sample
-layout: page
-order: 100
----
-# Sample page
+# Wiki page test
 
-This is a sample page demonstrating page metadata.
+This is a basic page, with only a title and some text content.

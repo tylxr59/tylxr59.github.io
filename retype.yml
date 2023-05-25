@@ -1,6 +1,8 @@
 input: .
 output: .retype
 url: pages.tylxr.com # Add your website address here
+edit:
+  repo: "https://github.com/tylxr59/tylxr59.github.io/edit/"
 branding:
   title: tylxr.com
   label: wiki
